@@ -118,6 +118,20 @@ nav:hover ul {
 	float: left;
 	width: 60%;
 	padding: 4%;
+	
+}
+
+.left-col-new {
+	float: left;
+	width: 90%;
+	padding: 4%;
+}
+.left-col-new h2 {
+	text-align: center;
+}
+
+.left-col-new p {
+	text-align: justify;
 }
 .sidebar {
 	float: left;
